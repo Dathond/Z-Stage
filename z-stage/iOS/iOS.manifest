@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1050038499
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: z-stage
+      Dependencies: {}
